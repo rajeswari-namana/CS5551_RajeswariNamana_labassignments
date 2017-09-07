@@ -1,0 +1,133 @@
+body {
+    background-image: url('http://www.amextelco.com/files/manhattan-tg-900x600%20(1).jpg');
+}
+h1{
+    text-align: center;
+}
+ol{
+    background-color:rgb(237, 237, 237);
+}
+h3{
+    padding: 10px 10px 10px 30px;
+}
+.wrapper {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.btn-primary{
+    margin: 5px;
+
+}
+.spac{
+    padding: 10px;
+}
+
+#spa{
+    padding: 0px 30px 0px 20px;
+}
+
+
+
+.form-signin {
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+}
+
+
+
+input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.grid-divider {
+    position: relative;
+    padding: 0;
+}
+.grid-divider>[class*='col-'] {
+    position: static;
+}
+.grid-divider>[class*='col-']:nth-child(n+2):before {
+    content: "";
+    border-left: 1px solid #DDD;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+.col-padding {
+    padding: 0 15px;
+}
+.container{
+    background-color:rgba(237, 237, 237,.7) ;
+    margin: 50px;
+}
+
+#map {
+    height: 400px;
+    width: 50%;
+}
+
+#right-panel {
+    font-family: 'Roboto','sans-serif';
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+#right-panel select, #right-panel input {
+    font-size: 15px;
+}
+
+#right-panel select {
+    width: 100%;
+}
+
+#right-panel i {
+    font-size: 12px;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+    height: 100%;
+    float: left;
+    width: 70%;
+    height: 100%;
+}
+#right-panel {
+    margin: 20px;
+    border-width: 2px;
+    width: 20%;
+    height: 400px;
+    float: left;
+    text-align: left;
+    padding-top: 0;
+}
+#directions-panel {
+    margin-top: 10px;
+    background-color: #FFEE77;
+    padding: 10px;
+    overflow: scroll;
+    height: 174px;
+}
+
+
+

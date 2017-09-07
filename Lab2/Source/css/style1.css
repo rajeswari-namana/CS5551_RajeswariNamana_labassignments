@@ -1,0 +1,40 @@
+body{
+    background-image: url('http://www.amextelco.com/files/manhattan-tg-900x600%20(1).jpg');
+}
+#map {
+    margin: 10px 50px 30px 200px;
+    height: 400px;
+    width: 50%;
+}
+p{
+    margin: 40px 50px 20px 200px;
+}
+
+#infowindow-content .title {
+    font-weight: bold;
+}
+
+#infowindow-content {
+    display: none;
+}
+
+#map #infowindow-content {
+    display: inline;
+}
+
+.pac-controls label {
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+#pac-input {
+    background-color: #fff;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 300;
+    margin-left: 12px;
+    padding: 0 11px 0 13px;
+    text-overflow: ellipsis;
+    width: 400px;
+}
