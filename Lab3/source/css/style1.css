@@ -1,0 +1,29 @@
+.jumbotron {
+    margin: 50px;
+    padding:35px;
+    height:300px;
+    font-family: 'Dancing Script', cursive;
+}
+#navi{
+    margin: 20px 80px;
+}
+#st{
+    font-family: 'Baloo Tammudu', cursive;
+}
+img{
+    padding:35px;
+}
+#title1{
+    text-decoration-line: underline;
+}
+button{
+    margin: 20px;
+}
+
+
+
+
+#text{
+    margin-left: 30%;
+    margin-right: 30%;
+}

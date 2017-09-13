@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Video&Translator</title>
+</head>
+<!-- Including angular js, bootstrap, style -->
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.7/cosmo/bootstrap.css">
+<link rel="stylesheet" href="css/style.css">
+<body>
+<!-- including nav bar -->
+Including angular js, bootstrap, style
+<nav class="nav navbar-default">
+    <a class="navbar-brand" href="#">Translator & Player</a>
+    <a id="signOut" href="http://google.com" onclick="signOut();">Sign out</a>
+</nav>
+<!-- including jumbotron -->
+<div class="jumbotron">
+<div ng-app="myApp" ng-controller="myCtrl">
+    <div class="panel">
+    <div class="form-group">
+    <label class="control-label">Enter text to translate:</label>
+            <input class="form-control" type="text" id="a">
+            <label class="control-label">Select Language:</label>
+            <select class="form-control" id="l">
+                <option value="" disabled selected>Select a language for translation</option>
+                <option value="ar">Arabic</option>
+                <option value="hi">Hindi</option>
+                <option value="fr">French</option>
+                <option value="es">Spanish</option>
+                <option value="la">Latin</option>
+                <option value="te">Telugu</option>
+                <option value="fr">French</option>
+                <option value="zh">Chinese</option>
+            </select>
+            <div>
+            <button ng-click="trans()" class="btn btn-success">Translate & Play Video</button>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col col-md-6">
+                    <h3><b>{{labelText}}</b></h3>
+                    <h3><b>{{translate}}</b></h3>
+                </div>
+                <div class="col col-md-6" >
+                    <h3><b>{{labelImage}}</b></h3>
+                    <img src={{displayImage}}>
+                    <h4>
+                    <b><a id="title1" href={{displayTitle}}>{{title}}</a></b>
+                    </h4>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>
+<script src="js/app.js"></script>
