@@ -1,0 +1,7 @@
+#Thu Sep 28 20:21:51 CDT 2017
+base.0=C\:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2183fb5d34c8730ad07dc05a220b55eb3670540d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_77c8597b897746d31caee18ef9c9c40eb018a91d\\classes.dex
+base.1=C\:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_77c8597b897746d31caee18ef9c9c40eb018a91d
+file.0=C\:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2183fb5d34c8730ad07dc05a220b55eb3670540d\\classes.dex

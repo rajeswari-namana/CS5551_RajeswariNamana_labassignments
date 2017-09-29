@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_container.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_container.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_concept.xml",
+        "source": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\src\\main\\res\\layout\\item_concept.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recognize.xml",
+        "source": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\src\\main\\res\\layout\\activity_recognize.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store_loc.xml",
+        "source": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\src\\main\\res\\layout\\activity_store_loc.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\materialize.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\c0706096ba0b46f73118cf29ae98f13761514760\\output\\res\\layout\\materialize.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_profile_setting.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_profile_setting.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_switch.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_secondary_switch.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_store.xml",
+        "source": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\src\\main\\res\\layout\\activity_store.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_section.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_section.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_fits_not.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_fits_not.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_slider.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_slider.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_compact_header.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_compact_header.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_secondary.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wrapper.xml",
+        "source": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\src\\main\\res\\layout\\activity_wrapper.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_profile.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_profile.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_mini.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_mini.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_secondary_toggle.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_secondary_toggle.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_expandable.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_expandable.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_header.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_header.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_recycler_view.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_recycler_view.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_divider.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_divider.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_switch.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_switch.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_toggle.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_toggle.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\9e8142240467daf1bc65fd5b71adeba2c916e6f9\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_mini_profile.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_mini_profile.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\material_drawer_item_primary.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\a04ef84cb3c74cf35e219f931e98bfb32f6ae007\\output\\res\\layout\\material_drawer_item_primary.xml"
+    }
+]
