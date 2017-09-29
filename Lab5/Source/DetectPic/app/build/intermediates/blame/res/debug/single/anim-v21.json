@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\gitNew\\tutorial5\\clarifai-android-starter-master\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\rajin\\.android\\build-cache\\6b3edbf9fe33b7e1dec79bdf0f2a1e1c58e0fad3\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    }
+]
