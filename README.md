@@ -10,3 +10,4 @@ Lab Assignment 6 - https://github.com/rajeswari-namana/CS5551_RajeswariNamana_la
 Lab Assignment 7 - https://github.com/rajeswari-namana/CS5551_RajeswariNamana_labassignments/wiki/Lab-Assignment-7
 Lab Assignment 8 - https://github.com/rajeswari-namana/CS5551_RajeswariNamana_labassignments/wiki/Lab-Assignment-8
 Lab Assignment 9 - https://github.com/rajeswari-namana/CS5551_RajeswariNamana_labassignments/wiki/Lab-Assignment-9
+Lab Assignment 10- https://github.com/rajeswari-namana/CS5551_RajeswariNamana_labassignments/wiki/Lab-Assignment-10
